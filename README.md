@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pavanmotagi
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python
+- 📫 How to reach me via email - pmotagi0710@gmail.com
